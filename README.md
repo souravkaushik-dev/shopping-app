@@ -81,19 +81,11 @@ This approach keeps the app **simple, readable, and scalable**.
 
 ## 📸 Screenshots
 
-### 🏠 Home
-![Home Screen](assets/screens/home.png)
+| Home | Cart | Favourites | Settings |
+|------|------|------------|----------|
+| ![Home](assets/screens/home.png) | ![Cart](assets/screens/cart.png) | ![Favourites](assets/screens/favorite.png) | ![Settings](assets/screens/settings.png) |
 
-### 🛒 Cart
-![Cart Screen](assets/screens/cart.png)
-
-### ❤️ Favourites
-![Favourite Screen](assets/screens/favorite.png)
-
-### ⚙️ Settings
-![Settings Screen](assets/screens/settings.png)
-
-> Make sure these images exist in `assets/screens/` and are pushed to the repository.
+> Make sure these images exist in `assets/screens/` and are committed to the repository.
 
 ---
 
